@@ -1,0 +1,6 @@
+package edu.bo.uagrm.ficct.ruddy.quispe.bank_app;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
